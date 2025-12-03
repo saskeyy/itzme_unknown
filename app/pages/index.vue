@@ -11,6 +11,7 @@
         </p>
 
         <!-- Test Mode Toggle -->
+        <!--
         <div class="flex items-center justify-center gap-3 mb-4">
           <UButton
             :color="testMode ? 'primary' : 'neutral'"
@@ -24,7 +25,7 @@
             (zum Testen aller Türchen)
           </span>
         </div>
-
+        -->
         <!-- Stats -->
         <div class="flex items-center justify-center gap-6 text-sm">
           <div class="flex items-center gap-2">
